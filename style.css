@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+    margin: 0%;
+}
+
+h3 {
+    text-align: center;
+}
+
+.conteiner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.formulario {
+    text-align: center;
+    padding: 25px;
+}
